@@ -1,7 +1,9 @@
 #include <iostream>
 
-int main() {
+int main() 
+{
   
-  std::cout << "Codecademy\n";
+  std::cout << "Hello\n";
+  std::cout << "Goodbye\n";
   
 }
