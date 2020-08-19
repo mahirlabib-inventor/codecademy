@@ -9,5 +9,9 @@ int main() {
     std::cout << "Pass\n";
   
   }
+
+  else{
+  	std::cout << "Fail\n";	
+  }
   
 }
